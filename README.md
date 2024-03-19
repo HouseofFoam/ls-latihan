@@ -1,7 +1,7 @@
 # ls-latihan
-Repository Toko Buku untuk Unjuk Keterampilan luar sekolah
-Pakai xampp
-install dulu database terkait
+\nRepository Toko Buku untuk Unjuk Keterampilan luar sekolah
+\nPakai xampp
+\ninstall dulu database terkait
 ![image](https://github.com/HouseofFoam/ls-latihan/assets/90776063/b20bf3a5-cb53-4f01-9a9d-c6f32973b5ef)
 ![image](https://github.com/HouseofFoam/ls-latihan/assets/90776063/7a162167-c2d7-41d4-a3ae-1c7b013c9dd9)
 ![image](https://github.com/HouseofFoam/ls-latihan/assets/90776063/539ea1dd-f545-4d42-86d9-782fb280bdfc)
